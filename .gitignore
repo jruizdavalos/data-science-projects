@@ -1,3 +1,6 @@
 00-Jupyter/
 01-Project/__pycache__
 01-Project/check
+.venv
+01-Project/checkpoints
+
